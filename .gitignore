@@ -43,7 +43,7 @@ build/
 bin/
 tmp/
 cmake-build-*
-/projects/*
+!/projects/*
 !/projects/examples
 modules.txt
 /external/lib
@@ -53,3 +53,4 @@ __pycache__
 *.png
 *.jpg
 *.ini
+/assets/.DS_Store
